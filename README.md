@@ -1,6 +1,6 @@
 # learninig
 
-From the [learning course sf data science] ()
+From the [learning course sf data science] (https://lms.skillfactory.ru/courses/course-v1:SkillFactory+DSPR-2.0+14JULY2021/course/)
 
 ## Проекты
 
