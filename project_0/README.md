@@ -3,9 +3,10 @@
 ## Оглавление
 [1. Описание проекта] (https://github.com/DmitryChrome/learninig/tree/main/project_0/README.md#Описание-проекта)  
 [2. Какой кейс решаем?] (https://github.com/DmitryChrome/learninig/tree/main/project_0/README.md#Какой-кейс-решаем?)  
-[3. Этапы работы над проектом] (https://github.com/DmitryChrome/learninig/tree/main/project_0/README.md#Этапы-работы-над-проектом)  
-[4. Результат] (https://github.com/DmitryChrome/learninig/tree/main/project_0/README.md#Результат)  
-[5. Выводы] (https://github.com/DmitryChrome/learninig/tree/main/project_0/README.md#Выводы)
+[3. Краткая информация о данных]  
+[4. Этапы работы над проектом] (https://github.com/DmitryChrome/learninig/tree/main/project_0/README.md#Этапы-работы-над-проектом)  
+[5. Результат] (https://github.com/DmitryChrome/learninig/tree/main/project_0/README.md#Результат)  
+[6. Выводы] (https://github.com/DmitryChrome/learninig/tree/main/project_0/README.md#Выводы)
 
 ### Описание проекта
 Угадать загаданное компьютером число за наименьшее количество попыток.
@@ -26,6 +27,9 @@
 Учимся писать хороший код на python.
 
 :arrow_up: [к оглавлению] (https://github.com/DmitryChrome/learninig/tree/main/project_0/README.md#Оглавление)
+
+### Краткая информация о данных
+...
 
 ### Этапы работы над проектом
 1. Первым делом импортируем библиотеку numpy и создаём функцию, которая принимает аргумент число "int". Это число и требуется угадать.
